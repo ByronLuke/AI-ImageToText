@@ -1,0 +1,2 @@
+inp,output,flag,username,timestamp
+flagged\inp\372b018f55d1bca70b58\miniwolf.jpg,"{""label"": ""mosquito net"", ""confidences"": [{""label"": ""mosquito net"", ""confidence"": 0.07266293466091156}, {""label"": ""handkerchief"", ""confidence"": 0.036551717668771744}, {""label"": ""fire screen"", ""confidence"": 0.029740575700998306}]}",,,2024-09-18 14:52:15.920721
